@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on EstructurasApi
+- 🔭 I’m currently working on my personal projects
 - 🌱 I’m currently learning on Platzi about JavaScript
 - 📫 How to reach me: via E-mail joaco.rm512@gmail.com
 <!--
