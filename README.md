@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning on Platzi about JavaScript
+- 🌱 I’m currently learning on Platzi about Data Science
 - 📫 How to reach me: via E-mail joaco.rm512@gmail.com
 <!--
 **justkahdri/JustKahdri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
