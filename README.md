@@ -4,11 +4,11 @@
 
 ### About
 
--  **Learning :** Data Science 💚		
+-  **Learning :** Data Science & Web Development 💚		
 -  **Languages :** JavaScript, Python
 -  **Hobbies :** Sci-Fi, Writing, VectorArt 🎨 & Music :headphones:
 -  **Leitmotiv :** "I could either watch it happen or be a part of it"
--  **Currently Working :** on my personal projects
+-  **Currently Working :** On my personal projects
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Twitter Badge](https://img.shields.io/badge/-Joaco Montes-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JoacoMontes5)](https://twitter.com/JoacoMontes5)  [![Linkedin Badge](https://img.shields.io/badge/-Joaquín R. Montes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaqu%C3%ADn-r-montes-461b91185/)](https://www.linkedin.com/in/joaqu%C3%ADn-r-montes-461b91185/)
+[![Twitter Badge](https://img.shields.io/badge/-Joaco_Montes-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JoacoMontes5)](https://twitter.com/JoacoMontes5)  [![Linkedin Badge](https://img.shields.io/badge/-Joaquín_R._Montes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaqu%C3%ADn-r-montes-461b91185/)](https://www.linkedin.com/in/joaqu%C3%ADn-r-montes-461b91185/)
