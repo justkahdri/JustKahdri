@@ -1,5 +1,5 @@
 ### JustKahdri 
- [![Gmail Badge](https://img.shields.io/badge/-joaco.rm512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaco.rm512@gmail.com)](mailto:joaco.rm512@gmail.com) 
+ [![Gmail Badge](https://img.shields.io/badge/-joaco.rm512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaco.rm512@gmail.com)](mailto:joaco.rm512@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Joaco_Montes-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JoacoMontes5)](https://twitter.com/JoacoMontes5)  [![Linkedin Badge](https://img.shields.io/badge/-Joaquín_R._Montes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaqu%C3%ADn-r-montes-461b91185/)](https://www.linkedin.com/in/joaqu%C3%ADn-r-montes-461b91185/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### About
@@ -16,4 +16,4 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Twitter Badge](https://img.shields.io/badge/-Joaco_Montes-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JoacoMontes5)](https://twitter.com/JoacoMontes5)  [![Linkedin Badge](https://img.shields.io/badge/-Joaquín_R._Montes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaqu%C3%ADn-r-montes-461b91185/)](https://www.linkedin.com/in/joaqu%C3%ADn-r-montes-461b91185/)
+
