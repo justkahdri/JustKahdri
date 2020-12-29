@@ -4,9 +4,9 @@
 
 ### About
 
--  **Learning :** Data Science & Web Development 💚		
+-  **Learning :** Web Development (Backend) 💚		
 -  **Languages :** JavaScript, Python
--  **Hobbies :** Sci-Fi, Writing, VectorArt 🎨 & Music :headphones:
+-  **Hobbies :** Sci-Fi, VideoGames & Music :headphones:
 -  **Leitmotiv :** "I could either watch it happen or be a part of it"
 -  **Currently Working :** On my personal projects
 
