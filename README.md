@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 👨‍💻 All of my projects are available at [justkahdri.netlify.app](https://justkahdri.netlify.app/)
+[](http://example.com/ "- 👨‍💻 All of my projects are available at [justkahdri.netlify.app](https://justkahdri.netlify.app/)")
 
 - 💬 Ask me about **React or Python**
 
