@@ -3,17 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/justkahdri" target="blank"><img src="https://img.shields.io/twitter/follow/justkahdri?logo=twitter&style=for-the-badge" alt="justkahdri" /></a> </p>
 
-- 🔭 I’m currently working on [my Portfolio](https://justkahdri.netlify.app/) and personal projects
+- 🔭 I’m currently working on [my Portfolio](https://joaquinmontes.vercel.app/) and personal projects
 
-- 🌱 I’m currently learning **NextJS, Unit Testing and NodeJS**
+- 🌱 I’m currently learning **NodeJS**
 
-- 👯 I’m looking to collaborate on **Open Source projects**
-
-[](http://example.com/ "- 👨‍💻 All of my projects are available at [justkahdri.netlify.app](https://justkahdri.netlify.app/)")
+- 👨‍💻 All of my projects are available at [joaquinmontes.vercel.app](https://joaquinmontes.vercel.app/)
 
 - 💬 Ask me about **React or Python**
 
-- 📄 Know about my experiences [CV on Drive](https://drive.google.com/file/d/1teqrKhGtbGPOz6g1Ik-t6SuKkD44vSls/view?usp=sharing)
+- 📄 Know about my experiences [CV on Drive](https://linkedin.com/in/joaquin-montes)
 
 - ⚡ Other interests: **I'm a bassist, I love music and sci-fi.**
 
