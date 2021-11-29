@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React or Python**
 
-- 📄 Know about my experiences [CV on Drive](https://linkedin.com/in/joaquin-montes)
+- 📄 Know about my experiences on my [LinkedIn](https://linkedin.com/in/joaquin-montes)
 
 - ⚡ Other interests: **I'm a bassist, I love music and sci-fi.**
 
