@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/justkahdri" target="blank"><img src="https://img.shields.io/twitter/follow/justkahdri?logo=twitter&style=for-the-badge" alt="justkahdri" /></a> </p>
 
-- 🔭 I’m currently working on [Major Key Technologies](https://joaquinmontes.vercel.app/).
+- 🔭 I’m currently working on [Major Key Technologies](https://www.majorkeytech.com/).
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://kahdri.com/)
 
