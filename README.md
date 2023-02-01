@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/justkahdri" target="blank"><img src="https://img.shields.io/twitter/follow/justkahdri?logo=twitter&style=for-the-badge" alt="justkahdri" /></a> </p>
 
-- 🔭 I’m currently working on [basement.studio](https://basement.studio/).
+- 🔭 I’m currently working at [basement.studio](https://basement.studio/).
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://kahdri.com/)
 
