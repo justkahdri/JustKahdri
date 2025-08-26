@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/justkahdri" target="blank"><img src="https://img.shields.io/twitter/follow/justkahdri?logo=twitter&style=for-the-badge" alt="justkahdri" /></a> </p>
 
-- 🔭 I’m currently working at [basement.studio](https://basement.studio/).
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://kahdri.com/)
-
 - 💬 Ask me about **React, Typescript or NextJS**
 
-- 📄 Know about my experiences on my [LinkedIn](https://linkedin.com/in/joaquin-montes)
+- 📄 Know about my experiences on my [portfolio](https://kahdri.com)
 
 - ⚡ Other interests: **I'm a bassist, I love music and sci-fi.**
 
